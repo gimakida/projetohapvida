@@ -1,0 +1,120 @@
+body{
+background-color: #F8F8FF;
+font-family: 'League Spartan', sans-serif;
+width: 100%;
+}
+#pagina{
+    margin:10px;
+    padding:10px;
+}
+.titulo{
+    color: #337AB7;
+    font-size: 20px;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: bold;
+    margin: 5px;
+    padding:5px;
+}
+.titulo1{
+    color: #337AB7;
+    font-size: 22px;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: normal;
+    text-align: justify;
+    margin: 0px;
+    padding:0px;
+}
+.titulo2{
+    color: #337AB7;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: bold;
+    margin: 8px;
+    padding:5px;
+    text-align: center;
+}
+#titulogrande{
+    color: #337AB7;
+    font-size: 30px;
+    font-family: 'League Spartan', sans-serif;
+    font-weight: bold;
+    margin: 0px;
+    padding:0px;
+    text-align: center;
+    display:block;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    text-indent: 30px;
+    color:#383737;
+}
+aside{
+    display:block;
+    width:15%;
+    float:left;
+    margin:10px;
+    padding:10px;
+}
+ul{
+    list-style: none;
+    margin:0px;
+    padding:0px;
+}
+li{
+    margin:10px;
+    padding:0px;
+    font-size: 17px;
+}
+a{
+    text-decoration: none;
+    color:#383737;
+}
+li a:hover{
+     color: #337AB7;
+}
+.exemplos{
+    text-decoration: none;
+    color:#337AB7;
+}
+.exercicio:hover{
+    color: #F8F8FF;
+    background-color: #C3D3DF;
+    border-radius: 20px;
+}
+#divisoria{
+    display: inline-block;
+    float: left;
+    margin: 20px;
+    padding:0px;
+}
+#principal{
+    margin:20px;
+    padding:10px;
+}
+#oqestilo{
+    display: inline-block;
+    width:90%;
+    margin:0px;
+    margin-right: 10px;
+    padding: 0%;
+}
+.imagem2{
+    display: flex;
+}
+#exercicios{
+    display: flex;
+    width: 20%;
+}
+.exercicio{
+    display:inline-block;
+    margin:10px;
+    padding: 10px;
+}
+.imagem{
+    margin:10px;
+    padding: 10px;
+}
+#relacionamentos{
+    display:inline-block;
+    width:75%;
+}
